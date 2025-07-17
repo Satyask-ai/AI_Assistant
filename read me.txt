@@ -1,0 +1,2 @@
+conda create --name ai-assistant python=3.10
+conda activate ai-assistant
