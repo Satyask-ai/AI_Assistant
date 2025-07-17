@@ -1,2 +1,13 @@
 conda create --name ai-assistant python=3.10
 conda activate ai-assistant
+
+Langchain version v0.1+ langchain is divided into packages
+      langchain-core : prompts, chains, memory, schema
+      langchain-openai : OpenAI models
+      langchain-community : Hugging Face, Pinecone, SerpAPI
+      langchain-anthropic : integration with claude
+      langchain- mongodb 
+      langchain - AWS 
+      langchain - azure 
+      langchain - chroma
+      langchain - Pinecone 
